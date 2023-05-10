@@ -16,7 +16,7 @@ class Array2Table {
         $this->tp = $tp;
 
         $this->arrayStruct();
-        //$this->toHTML();
+
 
 
 
